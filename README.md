@@ -1,5 +1,8 @@
-# latoken price gnome ticket 
+# latoken gnome price ticker
 
-Gnome 3 desktop ticker for latoken price with Python and argos. Rename to latoken.1r.60s.py and put in ~/.config/argos
+Get latoken price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/latoken-price-gnome-ticket/](https://codesharedot.github.io/latoken-price-gnome-ticket/)
 
-https://pythonbasics.org
+latoken price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to latoken.1r60s.py and put in ~/.config/argos
